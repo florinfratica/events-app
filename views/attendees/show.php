@@ -28,7 +28,6 @@
             <a class="btn btn-success" href="?page=attendees&action=export&id=<?=$event['id']?>"><span class="glyphicon glyphicon-floppy-disk"></span> Exportă în document Excel</a>
             <br/><br/><br/>
             <a href="?page=events&action=show&id=<?=$event['id']?>">&laquo; Înapoi la pagina evenimentului</a>
-
         </div>
     </div>
 </div>
